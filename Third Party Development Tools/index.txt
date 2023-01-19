@@ -1,0 +1,23 @@
+Fig (command line auto completion)
+https://fig.io/
+
+Docker (containerized environments)
+https://www.docker.com/
+
+PSQL (PostgreSQL)
+https://www.postgresql.org/download/
+
+NVM (The Node Version Manager)
+https://github.com/nvm-sh/nvm
+
+Webstorm (IDE for Javascript)
+https://www.jetbrains.com/webstorm/
+
+Slack (For team communication)
+https://slack.com/
+
+Sublime Text (Word processor)
+https://www.sublimetext.com/
+
+Postman (Call APIs for testing)
+https://www.postman.com/
