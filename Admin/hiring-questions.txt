@@ -1,0 +1,55 @@
+Some useful questions to ask prospective employers to guage potential fit.
+
+
+General Company
+- How old is the company and what has the revenue line looked like until now?
+- What is the company's financial situation? Funding? Runway? IPO plans?
+- What is the grand vision of the company?
+- What is the market niche of the company and where does it stand with respect to other players in the market?
+- What is the churn rate for employees over the past year?
+
+Position Specific
+- Which team is it thought that I would be joining?
+- Is it a remote role? Is there an optional office in my city?
+- What is the policy of working internationally (for short periods of time)?
+- What is the probation period for this position?
+- What does the promotion track look like? Does the company have defined competancy matrices?
+
+Compensation
+- What is the total compensation for the role and how is it broken down?
+- Are there any additional incentive or bonus programs at this company?
+- For equity, is it stock options or stock grants of some kind? What is the vesting schedule and/or vesting conditions? Are there equity refreshes?
+- How many vacation days does this position get? What does vacation day request and approval look like at this company? Are there any mandatory vacation periods?
+- Are there any pension of savings plans at this company?
+
+Team Management
+- What positions constitute a team and how are the teams organized within the department?
+- How do new initiatives (issues/tickets etc) get assigned to teams and discussed with teams?
+- Who is the most direct leader of a team?
+- If a team wishes to change its collaboration practice in some way, what would be the path for that at this company?
+- If a team wishes to create a new microservice, or change the language of one of its domain services, what would be the path for that at this company?
+- How is a given team connected to real end users?
+- Is it possible to change teams or to be moved to a different team? What is the process there?
+
+Upper Management
+- What does "transparency" mean to the management of this company?
+- What does "autonomy" mean to the management of this company?
+- How does management ensure that all perspectives are taken into account before making a particular decision?
+- How does this company treat the idea of feedback from employees?
+- What is the balance that management pushes for between "velocity", "consistency" and "robustness" of the product?
+
+Technical
+- What does the technical landscape look like for this company?
+- What are the divisions of labour within the product department (ownership/responsibility etc)?
+- Is there a dedicated devops department?
+- What technical resources are employees given (equipment, education, accounts, etc)?
+
+Culture
+- How would you describe the culture of this company?
+- What sort of events or non-work-related activities happen at this company?
+- Would you say the company is concerned more with data or chain of command when making decisions?
+
+Misc
+- What is something you think this company excels at and something you think could use a bit of improvement?
+- Why did this company seem enticing to you when you were thinking about joining?
+- Can you name one time that you voiced negative feedback about a certain company process and how did that feedback get treated?
