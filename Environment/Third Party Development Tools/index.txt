@@ -1,7 +1,7 @@
-Fig (command line auto completion)
+Fig (Command line auto completion)
 https://fig.io/
 
-Docker (containerized environments)
+Docker (Containerized environments)
 https://www.docker.com/
 
 PSQL (PostgreSQL)
@@ -21,3 +21,12 @@ https://www.sublimetext.com/
 
 Postman (Call APIs for testing)
 https://www.postman.com/
+
+Bear (Great note taking application)
+https://bear.app/
+
+PgAdmin (PSQL GUI)
+https://www.pgadmin.org/
+
+Authy (Desktop 2FA manager)
+https://authy.com/
