@@ -10,7 +10,8 @@ General Company
 
 Position Specific
 - Which team is it thought that I would be joining?
-- Is it a remote role? Is there an optional office in my city?
+- When you think about other people who have succeeded in this or a similar role, how would you describe them?
+- Is it a remote role? Is there an optional office in my city? WeWork or other coworking options?
 - What is the policy of working internationally (for short periods of time)?
 - What is the probation period for this position?
 - What does the promotion track look like? Does the company have defined competancy matrices?
@@ -20,7 +21,7 @@ Compensation
 - Are there any additional incentive or bonus programs at this company?
 - For equity, is it stock options or stock grants of some kind? What is the vesting schedule and/or vesting conditions? Are there equity refreshes?
 - How many vacation days does this position get? What does vacation day request and approval look like at this company? Are there any mandatory vacation periods?
-- Are there any pension of savings plans at this company?
+- Are there any pension or savings plan schemes at this company?
 
 Team Management
 - What positions constitute a team and how are the teams organized within the department?
@@ -41,8 +42,9 @@ Upper Management
 Technical
 - What does the technical landscape look like for this company?
 - What are the divisions of labour within the product department (ownership/responsibility etc)?
-- Is there a dedicated devops department?
+- Is there a dedicated devops/deployment department? Dedicated QA personel?
 - What technical resources are employees given (equipment, education, accounts, etc)?
+- What equipment does this company use and provied? Is there an ongoing technical budget for employees?
 
 Culture
 - How would you describe the culture of this company?
@@ -52,4 +54,6 @@ Culture
 Misc
 - What is something you think this company excels at and something you think could use a bit of improvement?
 - Why did this company seem enticing to you when you were thinking about joining?
+- When you look at other similar companies, what is one thing you are thankful for that this company does that differentiates them?
 - Can you name one time that you voiced negative feedback about a certain company process and how did that feedback get treated?
+- Can you name a time when you failed at one of your responsibilities and how that failure was treated within the company?
